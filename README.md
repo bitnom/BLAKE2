@@ -1,2 +1,2 @@
-# blake2nim
-Nim wrapper for the Blake2 hashing algorithm.
+# BLAKE2
+Nim implementation/wrap of the BLAKE2 hashing algorithm library.
